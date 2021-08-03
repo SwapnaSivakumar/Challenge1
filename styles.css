@@ -14,3 +14,8 @@ form{
     height:30px;
     width:100px;
 }
+
+p{
+    padding-left: 20px;
+    padding-right: 20px;
+}
